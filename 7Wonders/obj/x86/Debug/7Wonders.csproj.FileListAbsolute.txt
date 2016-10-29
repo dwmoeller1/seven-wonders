@@ -1,0 +1,8 @@
+C:\Users\dmoeller\Documents\Visual Studio 2015\7Wonders\7Wonders\obj\x86\Debug\7Wonders.csproj.ResolveComReference.cache
+C:\Users\dmoeller\Documents\Visual Studio 2015\7Wonders\7Wonders\obj\x86\Debug\WindowsFormsApplication1.BuildDialog.resources
+C:\Users\dmoeller\Documents\Visual Studio 2015\7Wonders\7Wonders\obj\x86\Debug\WindowsFormsApplication1.Card.resources
+C:\Users\dmoeller\Documents\Visual Studio 2015\7Wonders\7Wonders\obj\x86\Debug\WindowsFormsApplication1.GameBoard.resources
+C:\Users\dmoeller\Documents\Visual Studio 2015\7Wonders\7Wonders\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\dmoeller\Documents\Visual Studio 2015\7Wonders\7Wonders\obj\x86\Debug\WindowsFormsApplication1.PlayArea.resources
+C:\Users\dmoeller\Documents\Visual Studio 2015\7Wonders\7Wonders\obj\x86\Debug\WindowsFormsApplication1.Setup.resources
+C:\Users\dmoeller\Documents\Visual Studio 2015\7Wonders\7Wonders\obj\x86\Debug\7Wonders.csproj.GenerateResource.Cache
